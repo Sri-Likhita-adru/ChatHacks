@@ -1,5 +1,5 @@
 # VentAI
-A place to went all your feelings and get consoled!
+A place to vent all your feelings and get consoled!
 
 ## 💡 Inspiration
 Most people nowadays have a lot of pent-up feelings with no one to release these feelings to. VentAI acts as the user's personal therapist by listening to all their pent-up emotions like frustration, anger, sadness, etc. Not only the negative emotions but the user can also share their positive emotions like happiness and so on. VentAI basically acts as a casual chat partner where we can vent all our feeling and in turn get consoled and appreciated. 
