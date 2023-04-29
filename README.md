@@ -6,8 +6,9 @@ Most people nowadays have a lot of pent-up feelings with no one to release these
 
 ## 💻 What it does
 - Users can input text (their problems, feelings, etc.)
-- Analyses user's text and detects emotion
+- Analyses user's text and detects emotion by sentiment analysis
 - Replies according to the user's text and emotion
+- Tries to keep the chat going to engage the user
 
 ## ⚙️ How we built it
 - Frontend: HTML, CSS, JavaScript
@@ -19,8 +20,9 @@ Most people nowadays have a lot of pent-up feelings with no one to release these
 
 ## 🏅 Accomplishments that we're proud of
 - Built a chat space where users can input text (their problems, feelings, etc.)
-- Trained the bot to analyze the user's text and detect emotion
+- Trained the bot to analyze the user's text and detect emotion through sentiment analysis
 - Successfully replies based on the user's text and emotion
+- The bot was able to successfully engage the user in the chat
 
 ## 📖 What we learned
 This is my first time building a chatbot. I had a lot of fun building VentAI with the help of ChatGPT Open.ai API. It was a new learning process for me since integrating ChatGPT into my project was also my first. Overall it was a delightful process to build VentAI.
