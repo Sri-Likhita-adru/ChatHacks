@@ -13,7 +13,7 @@ Most people nowadays have a lot of pent-up feelings with no one to release these
 ## ⚙️ How we built it
 - Frontend: HTML, CSS, JavaScript
 - Backend: AI, NLP, ChatGPT
-- 
+
 ## 🧠 Challenges we ran into
 - First time building Chatbot
 - First time using ChatGPT API
